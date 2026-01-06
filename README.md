@@ -1,4 +1,4 @@
-# Jupyter-Notebook
+# Python-and-Jupyter
 
 This repository showcases a collection of end-to-end data science and machine learning projects developed using Python and Jupyter Notebooks. The projects demonstrate practical experience in data preprocessing, exploratory analysis, statistical reasoning, feature engineering, and model development on real-world datasets.
 
