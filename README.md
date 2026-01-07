@@ -1,63 +1,87 @@
 # Python-and-Jupyter
 
-This repository showcases a collection of end-to-end data science and machine learning projects developed using Python and Jupyter Notebooks. The projects demonstrate practical experience in data preprocessing, exploratory analysis, statistical reasoning, feature engineering, and model development on real-world datasets.
+📊 Data Science & Machine Learning Projects
 
-📁 Project Portfolio
+This repository contains a collection of end-to-end data science and machine learning projects implemented using Python and Jupyter Notebooks. Each notebook demonstrates practical skills in data preprocessing, exploratory data analysis (EDA), statistical reasoning, and predictive modelling on real-world and simulated datasets.
 
-1️⃣ Retail Fashion E-commerce Analytics & Modelling
+📁 Projects Overview
 
-- Performed data cleaning, exploratory data analysis (EDA), and statistical analysis on customer transaction data
+1. Customer Purchase Data Analysis
 
-- Analyzed purchasing behaviour, trends, and customer-level patterns
+Notebook: Cust_Purch_Data_Exercise.ipynb
 
-- Generated data-driven insights to support business and strategic decision-making
+- Data cleaning and preprocessing
 
-2️⃣ Customer Purchase Data Analysis Exercise
+- Exploratory data analysis
 
-- Applied data wrangling and transformation techniques on raw transactional data
+- Understanding customer purchasing behaviour
 
-- Used Pandas for structured analysis and aggregation
+- Foundational statistical insights for business decision-making
 
-- Demonstrated analytical thinking and reproducible notebook workflows
+2. Fake News Detection using Naive Bayes
 
-3️⃣ Fake News Classification using Naive Bayes (NLP)
+Notebook: Fake_News_NaiveBayes_Final.ipynb
 
-- Built a supervised machine learning model for text classification
+- Text preprocessing and feature extraction
 
-- Applied NLP preprocessing techniques (tokenization, vectorization)
+- Probabilistic classification using Naive Bayes
 
-- Trained and evaluated a Naive Bayes classifier to detect fake news
+- Model evaluation and interpretation
 
-4️⃣ Breast Cancer Clustering using K-Means
+- Applied NLP techniques for misinformation detection
 
-- Implemented unsupervised learning for medical data exploration
+3. Retail Fashion E-Commerce Dataset Analysis
 
-- Used K-Means clustering to identify class separation patterns
+Notebook: Retail_Fashion_Ecommerce_Dataset_Analysis.ipynb
 
-- Evaluated cluster performance and visualized results
+- Data cleaning and transformation
 
-🛠️ Data Science Stack
+- Univariate & bivariate analysis
+
+- Business-driven insights from customer and sales data
+
+- Actionable recommendations for e-commerce performance
+
+4. Breast Cancer Clustering using K-Means
+
+Notebook: Two_Cluster_KMeans_Breast_Cancer.ipynb
+
+- Feature scaling and dimensional analysis
+
+- Unsupervised learning with K-Means clustering
+
+- Cluster interpretation and visualization
+
+- Healthcare-focused exploratory modelling
+
+🛠️ Tools & Technologies
 
 - Python
 
 - Jupyter Notebook
 
-- Pandas & NumPy
+- Pandas, NumPy
 
-- Matplotlib & Seaborn
+- Matplotlib / Seaborn
 
 - scikit-learn
 
 - Natural Language Processing (NLP)
 
-🎯 Repository Objective
+🎯 Key Skills Demonstrated
 
-This repository serves as a data science portfolio, demonstrating the ability to:
+- Data Cleaning & Preprocessing
 
-- Translate raw data into machine learning solutions
+- Exploratory Data Analysis (EDA)
 
-- Apply statistical and ML techniques appropriately
+- Statistical Reasoning
 
-- Interpret, evaluate, and communicate model outcomes
+- Supervised & Unsupervised Machine Learning
 
-- Build reproducible and well-documented analytical pipelines
+- Model Evaluation & Interpretation
+
+- Business & Domain-Driven Insights
+
+🚀 Purpose
+
+This repository is designed to showcase practical data science capabilities and serve as a portfolio of applied analytics and machine learning projects suitable for academic, professional, and real-world business contexts. 
