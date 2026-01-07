@@ -1,0 +1,20 @@
+Python-and-Jupyter/
+│
+├── Customer_Purchase_Analysis/
+│   ├── Cust_Purch_Data_Exercise.ipynb
+│   ├── Cust_Purch_FakeData.csv
+│   └── README.md
+│
+├── Fake_News_Classification/
+│   ├── Fake_News_NaiveBayes_Final.ipynb
+│   └── README.md
+│
+├── Retail_Fashion_Ecommerce_Analysis/
+│   ├── Retail_Fashion_Ecommerce_Dataset_Analysis.ipynb
+│   └── README.md
+│
+├── KMeans_Breast_Cancer_Clustering/
+│   ├── Two_Cluster_KMeans_Breast_Cancer.ipynb
+│   └── README.md
+│
+└── README.md   ← main repo overview
