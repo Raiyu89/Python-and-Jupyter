@@ -16,7 +16,7 @@ This repository showcases a collection of end-to-end data science and machine le
 
 - Applied data wrangling and transformation techniques on raw transactional data
 
-- Used Pandas and NumPy for structured analysis and aggregation
+- Used Pandas for structured analysis and aggregation
 
 - Demonstrated analytical thinking and reproducible notebook workflows
 
